@@ -3,6 +3,7 @@
 This project is a professional healthcare dashboard built using Power BI to provide interactive insights into hospital operations, patient admissions, billing trends, and doctor performance.
 
 **Features**
+
 KPI Cards: Total Billing, Avg Stay Duration, Patient Count
 Interactive Charts:
 Total Billing by Doctor
@@ -14,6 +15,7 @@ Interactive Slicers: Filter data by Gender, Admission Type, etc.
 Clickable WHO Logo: Opens World Health Organization website
 
 **Tools Used**
+
 Microsoft Power BI Desktop
 DAX for calculations (Avg Stay Duration, Total Billing, etc.)
 Interactive visuals, slicers, and navigation buttons
