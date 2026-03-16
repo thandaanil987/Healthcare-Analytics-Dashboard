@@ -20,7 +20,11 @@ Clickable WHO Logo: Opens World Health Organization website
 DAX for calculations (Avg Stay Duration, Total Billing, etc.) - 
 Interactive visuals, slicers, and navigation buttons.
 
-**Screenshots**
+## Dashboard Preview
+
+Below is the Power BI dashboard created for Healthcare Analytics 
+
+<img src="dashboard_visuals.png" width="900">
 
 **Kaggle Data** - https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 
